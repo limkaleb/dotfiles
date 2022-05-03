@@ -1,1 +1,1 @@
-My Dotfiles
+Just My Dotfiles
